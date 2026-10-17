@@ -37,7 +37,7 @@ Hello, I'm Emery! I'm a third-year Applied Mathematics student @Uwaterloo with e
 | **Project** | **What it does** | **Built with** |
 | ----------- | ---------------- | -------------- |
 | [Enterprise-Intelligence-System](https://github.com/Emery-Liu/Enterprise-Intelligence-System) | Builds an AI-powered hierarchical industry classification system | Python, FAISS, RAG |
-| [UrbanPulse-Self-Service-Analytics-Platform](\https://github.com/Emery-Liu/UrbanPulse-Self-Service-Analytics-Platform) | Analyzes NYC 311 service requests and generates visualizations through a REST API | Python, FastAPI, Pandas, SQLite |
+| [UrbanPulse-Self-Service-Analytics-Platform](https://github.com/Emery-Liu/UrbanPulse-Self-Service-Analytics-Platform) | Analyzes NYC 311 service requests and generates visualizations through a REST API | Python, FastAPI, Pandas, SQLite |
 | [CommerceLens Relational SQL Analytics](你的项目链接) | Analyzes e-commerce sales trends and product performance using SQL | MySQL, SQL |
 
 📫 **Connect**:
