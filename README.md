@@ -25,9 +25,11 @@ Hello, I'm Emery! I'm a third-year Applied Mathematics student with experience i
 
 
 🛠️ Tools
+'''
 Programming: Python, SQL, R, C, Bash
 Databases: MySQL, SQLite
 Data Analysis: Pandas, NumPy
 Visualization & BI: Power BI, Tableau
 Data Engineering & Backend: FastAPI, REST APIs, Docker
 AI & ML: LLMs, RAG, Embeddings, FAISS
+'''
