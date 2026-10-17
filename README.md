@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I'm Emery! I'm a third-year Applied Mathematics student with experience in data analysis, business insights, query optimization, and data modeling.
+Hello, I'm Emery! I'm a third-year Applied Mathematics student @Uwaterloo with experience in data analysis, business insights, query optimization, and data modeling.
 
 - Querying and analyzing data using SQL.
 - Performing data analysis using Python (Pandas, NumPy) to extract actionable business insights.
@@ -24,7 +24,7 @@ Hello, I'm Emery! I'm a third-year Applied Mathematics student with experience i
 - Developing AI-powered classification systems using LLMs, embeddings, and FAISS for semantic search.
 
 
-🛠️ Tools
+🛠️ **Tools**
 
 - Programming: Python, SQL, R, C, Bash
 - Databases: MySQL, SQLite
@@ -33,5 +33,12 @@ Hello, I'm Emery! I'm a third-year Applied Mathematics student with experience i
 - Data Engineering & Backend: FastAPI, REST APIs, Docker
 - AI & ML: LLMs, RAG, Embeddings, FAISS
 
-📫 Connect:
+📚 **Projects**:
+| **Project** | **What it does** | **Built with** |
+| ----------- | ---------------- | -------------- |
+| [Enterprise-Intelligence-System](https://github.com/Emery-Liu/Enterprise-Intelligence-System) | Builds an AI-powered hierarchical industry classification system | Python, FAISS, RAG |
+| [UrbanPulse-Self-Service-Analytics-Platform](\https://github.com/Emery-Liu/UrbanPulse-Self-Service-Analytics-Platform) | Analyzes NYC 311 service requests and generates visualizations through a REST API | Python, FastAPI, Pandas, SQLite |
+| [CommerceLens Relational SQL Analytics](你的项目链接) | Analyzes e-commerce sales trends and product performance using SQL | MySQL, SQL |
+
+📫 **Connect**:
 - [LinkedIn](https://www.linkedin.com/in/emery-liu/)
